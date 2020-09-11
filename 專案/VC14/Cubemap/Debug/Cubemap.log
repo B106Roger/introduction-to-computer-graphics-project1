@@ -1,0 +1,34 @@
+﻿  main.cpp
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\cubemapshader.h(10): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'CubemapTexture' 的左方
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(530): warning C4101: 'f': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(531): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(677): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(853): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(856): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(843): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1037): warning C4101: 'f': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1038): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1264): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1194): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1193): warning C4101: 'f3': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1360): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1668): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1526): warning C4101: 'f2': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1527): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1526): warning C4101: 'f3': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1769): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1694): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1876): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1880): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1866): warning C4101: 'f': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1867): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(2091): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(2279): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(2281): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(2291): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(2312): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(2320): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(2377): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(2498): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(2499): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Cubemap.vcxproj -> D:\C++\Quiz\Project1_B10632004\專案\VC14\Cubemap\\..\..\Assets\Cubemap.exe

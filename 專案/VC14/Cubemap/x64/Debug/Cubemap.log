@@ -1,0 +1,201 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Common.cpp
+  CubemapShader.cpp
+d:\c++\quiz\project_b10632004\專案\source\cubemap\cubemapshader.h(10): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'CubemapTexture' 的左方
+  DrawModelShader.cpp
+  FrameBufferShader.cpp
+  Light.cpp
+d:\c++\quiz\project_b10632004\專案\source\cubemap\light.cpp(53): warning C4305: '引數': 從 'double' 轉換為 'const T'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+          with
+          [
+              T=float
+          ]
+d:\c++\quiz\project_b10632004\專案\source\cubemap\light.cpp(53): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  main.cpp
+d:\c++\quiz\project_b10632004\專案\source\cubemap\cubemapshader.h(10): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'CubemapTexture' 的左方
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(365): warning C4101: 'f': 未參考的區域變數
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(366): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(512): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(688): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(691): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(678): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(872): warning C4101: 'f': 未參考的區域變數
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(873): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(1099): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(1029): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(1028): warning C4101: 'f3': 未參考的區域變數
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(1195): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(1503): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(1361): warning C4101: 'f2': 未參考的區域變數
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(1362): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(1361): warning C4101: 'f3': 未參考的區域變數
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(1604): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(1529): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(1711): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(1715): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(1701): warning C4101: 'f': 未參考的區域變數
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(1702): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(1926): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(2110): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(2112): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(2122): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(2143): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(2151): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(2208): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(2321): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\main.cpp(2322): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  MyModel.cpp
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(29): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'unsigned __int64'
+  d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(29): note: 請考慮在格式字串中使用 '%zd'
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(29): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'unsigned __int64'
+  d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(29): note: 請考慮在格式字串中使用 '%zd'
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(38): warning C4267: '+=': 將 'size_t' 轉換為 'unsigned int'，資料可能遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(39): warning C4267: '+=': 將 'size_t' 轉換為 'unsigned int'，資料可能遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(54): warning C4267: '+=': 將 'size_t' 轉換為 'unsigned int'，資料可能遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(69): warning C4267: '+=': 將 'size_t' 轉換為 'unsigned int'，資料可能遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(79): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(87): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(89): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(91): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(95): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(97): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(105): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(129): warning C4267: '+=': 將 'size_t' 轉換為 'unsigned int'，資料可能遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(156): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'unsigned __int64'
+  d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(156): note: 請考慮在格式字串中使用 '%zd'
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(156): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'unsigned __int64'
+  d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(156): note: 請考慮在格式字串中使用 '%zd'
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(165): warning C4267: '+=': 將 'size_t' 轉換為 'unsigned int'，資料可能遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(166): warning C4267: '+=': 將 'size_t' 轉換為 'unsigned int'，資料可能遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(181): warning C4267: '+=': 將 'size_t' 轉換為 'unsigned int'，資料可能遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(195): warning C4267: '+=': 將 'size_t' 轉換為 'unsigned int'，資料可能遺失
+d:\c++\quiz\project_b10632004\專案\source\cubemap\mymodel.cpp(226): warning C4267: '+=': 將 'size_t' 轉換為 'unsigned int'，資料可能遺失
+  Shader.cpp
+  ResourcePath.cpp
+  ShaderObject.cpp
+  tiny_obj_loader.cpp
+  ViewManager.cpp
+d:\c++\quiz\project_b10632004\專案\source\viewmanager.cpp(134): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\viewmanager.cpp(139): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project_b10632004\專案\source\viewmanager.cpp(283): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+Common.obj : error LNK2001: 無法解析的外部符號 __imp___glewGetProgramInfoLog
+Common.obj : error LNK2001: 無法解析的外部符號 __imp___glewGetProgramiv
+Common.obj : error LNK2001: 無法解析的外部符號 __imp___glewGetShaderInfoLog
+Common.obj : error LNK2001: 無法解析的外部符號 __imp___glewGetShaderiv
+Common.obj : error LNK2001: 無法解析的外部符號 __imp___glewCheckFramebufferStatus
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewCheckFramebufferStatus
+CubemapShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewActiveTexture
+CubemapShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewBindBuffer
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewBindBuffer
+Light.obj : error LNK2001: 無法解析的外部符號 __imp___glewBindBuffer
+MyModel.obj : error LNK2001: 無法解析的外部符號 __imp___glewBindBuffer
+CubemapShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewBufferData
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewBufferData
+Light.obj : error LNK2001: 無法解析的外部符號 __imp___glewBufferData
+MyModel.obj : error LNK2001: 無法解析的外部符號 __imp___glewBufferData
+CubemapShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewGenBuffers
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewGenBuffers
+Light.obj : error LNK2001: 無法解析的外部符號 __imp___glewGenBuffers
+MyModel.obj : error LNK2001: 無法解析的外部符號 __imp___glewGenBuffers
+CubemapShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewEnableVertexAttribArray
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewEnableVertexAttribArray
+Light.obj : error LNK2001: 無法解析的外部符號 __imp___glewEnableVertexAttribArray
+MyModel.obj : error LNK2001: 無法解析的外部符號 __imp___glewEnableVertexAttribArray
+CubemapShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniformMatrix4fv
+DrawModelShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniformMatrix4fv
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniformMatrix4fv
+Shader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniformMatrix4fv
+CubemapShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewVertexAttribPointer
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewVertexAttribPointer
+Light.obj : error LNK2001: 無法解析的外部符號 __imp___glewVertexAttribPointer
+MyModel.obj : error LNK2001: 無法解析的外部符號 __imp___glewVertexAttribPointer
+CubemapShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewGenerateMipmap
+CubemapShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewBindVertexArray
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewBindVertexArray
+Light.obj : error LNK2001: 無法解析的外部符號 __imp___glewBindVertexArray
+MyModel.obj : error LNK2001: 無法解析的外部符號 __imp___glewBindVertexArray
+CubemapShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewGenVertexArrays
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewGenVertexArrays
+Light.obj : error LNK2001: 無法解析的外部符號 __imp___glewGenVertexArrays
+MyModel.obj : error LNK2001: 無法解析的外部符號 __imp___glewGenVertexArrays
+DrawModelShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewGetUniformLocation
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewGetUniformLocation
+Shader.obj : error LNK2001: 無法解析的外部符號 __imp___glewGetUniformLocation
+ShaderObject.obj : error LNK2001: 無法解析的外部符號 __imp___glewGetUniformLocation
+DrawModelShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniform1f
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniform1f
+Shader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniform1f
+DrawModelShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniform1i
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniform1i
+Shader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniform1i
+DrawModelShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniform2fv
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniform2fv
+Shader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniform2fv
+DrawModelShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniform3fv
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniform3fv
+Shader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniform3fv
+DrawModelShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniform4fv
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniform4fv
+Shader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniform4fv
+DrawModelShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniformMatrix3fv
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniformMatrix3fv
+Shader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUniformMatrix3fv
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewBindFramebuffer
+Light.obj : error LNK2001: 無法解析的外部符號 __imp___glewBindFramebuffer
+main.obj : error LNK2001: 無法解析的外部符號 __imp___glewBindFramebuffer
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewBindRenderbuffer
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewFramebufferRenderbuffer
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewFramebufferTexture2D
+Light.obj : error LNK2001: 無法解析的外部符號 __imp___glewFramebufferTexture2D
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewGenFramebuffers
+Light.obj : error LNK2001: 無法解析的外部符號 __imp___glewGenFramebuffers
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewGenRenderbuffers
+FrameBufferShader.obj : error LNK2001: 無法解析的外部符號 __imp___glewRenderbufferStorage
+main.obj : error LNK2019: 無法解析的外部符號 __imp_glewInit 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp_glutInitWindowPosition 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp_glutInitWindowSize 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp_glutInitDisplayMode 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp_glutMainLoop 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp_glutPostRedisplay 在函式 "void __cdecl My_Timer(int)" (?My_Timer@@YAXH@Z) 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp_glutSwapBuffers 在函式 "void __cdecl My_Display(void)" (?My_Display@@YAXXZ) 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp_glutAddMenuEntry 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp_glutAddSubMenu 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp_glutAttachMenu 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp_glutTimerFunc 在函式 "void __cdecl My_Timer(int)" (?My_Timer@@YAXH@Z) 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp_glutKeyboardFunc 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp_glutReshapeFunc 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp_glutDisplayFunc 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp_glutMouseFunc 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp_glutMotionFunc 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp_glutPassiveMotionFunc 在函式 main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp_glutGet 在函式 "void __cdecl My_Display(void)" (?My_Display@@YAXXZ) 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp___glutInitWithExit 在函式 glutInit_ATEXIT_HACK 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp___glutCreateWindowWithExit 在函式 glutCreateWindow_ATEXIT_HACK 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 __imp___glutCreateMenuWithExit 在函式 glutCreateMenu_ATEXIT_HACK 中被參考
+MyModel.obj : error LNK2001: 無法解析的外部符號 __imp___glewBufferSubData
+MyModel.obj : error LNK2001: 無法解析的外部符號 __imp___glewDrawElementsInstanced
+MyModel.obj : error LNK2001: 無法解析的外部符號 __imp___glewVertexAttribDivisor
+Shader.obj : error LNK2001: 無法解析的外部符號 __imp___glewAttachShader
+ShaderObject.obj : error LNK2001: 無法解析的外部符號 __imp___glewAttachShader
+Shader.obj : error LNK2001: 無法解析的外部符號 __imp___glewCompileShader
+ShaderObject.obj : error LNK2001: 無法解析的外部符號 __imp___glewCompileShader
+Shader.obj : error LNK2001: 無法解析的外部符號 __imp___glewCreateProgram
+ShaderObject.obj : error LNK2001: 無法解析的外部符號 __imp___glewCreateProgram
+Shader.obj : error LNK2001: 無法解析的外部符號 __imp___glewCreateShader
+ShaderObject.obj : error LNK2001: 無法解析的外部符號 __imp___glewCreateShader
+Shader.obj : error LNK2001: 無法解析的外部符號 __imp___glewDeleteProgram
+ShaderObject.obj : error LNK2001: 無法解析的外部符號 __imp___glewDeleteProgram
+Shader.obj : error LNK2001: 無法解析的外部符號 __imp___glewDeleteShader
+ShaderObject.obj : error LNK2001: 無法解析的外部符號 __imp___glewDeleteShader
+Shader.obj : error LNK2001: 無法解析的外部符號 __imp___glewDetachShader
+ShaderObject.obj : error LNK2001: 無法解析的外部符號 __imp___glewDetachShader
+Shader.obj : error LNK2001: 無法解析的外部符號 __imp___glewLinkProgram
+ShaderObject.obj : error LNK2001: 無法解析的外部符號 __imp___glewLinkProgram
+Shader.obj : error LNK2001: 無法解析的外部符號 __imp___glewShaderSource
+ShaderObject.obj : error LNK2001: 無法解析的外部符號 __imp___glewShaderSource
+Shader.obj : error LNK2001: 無法解析的外部符號 __imp___glewUseProgram
+ShaderObject.obj : error LNK2001: 無法解析的外部符號 __imp___glewUseProgram
+D:\C++\Quiz\Project_B10632004\專案\VC14\Cubemap\\..\..\Libs\VC\freeglut.lib : warning LNK4272: 程式庫電腦類型 'x86' 與目標電腦類型 'x64' 發生衝突
+D:\C++\Quiz\Project_B10632004\專案\VC14\Cubemap\\..\..\Libs\VC\glew32.lib : warning LNK4272: 程式庫電腦類型 'x86' 與目標電腦類型 'x64' 發生衝突
+D:\C++\Quiz\Project_B10632004\專案\VC14\Cubemap\..\..\Assets\Cubemap.exe : fatal error LNK1120: 63 個無法解析的外部符號

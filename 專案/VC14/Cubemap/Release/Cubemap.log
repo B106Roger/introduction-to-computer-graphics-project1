@@ -1,0 +1,42 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.cpp
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\cubemapshader.h(10): warning C4091: 'typedef ': 當沒有宣告變數時，忽略 'CubemapTexture' 的左方
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(256): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(257): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(542): warning C4101: 'f': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(543): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(702): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(890): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(893): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(880): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1086): warning C4101: 'f': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1087): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1325): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1255): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1254): warning C4101: 'f3': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1433): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1753): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1611): warning C4101: 'f2': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1612): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1611): warning C4101: 'f3': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1866): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1791): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1985): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1989): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1975): warning C4101: 'f': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(1976): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(2212): warning C4101: 'i': 未參考的區域變數
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(2403): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(2405): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(2415): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(2433): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(2441): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(2505): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(2636): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\c++\quiz\project1_b10632004\專案\source\cubemap\main.cpp(2637): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  正在產生程式碼
+  2 of 2050 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  Cubemap.vcxproj -> D:\C++\Quiz\Project1_B10632004\專案\VC14\Cubemap\..\..\Assets\Cubemap.exe
